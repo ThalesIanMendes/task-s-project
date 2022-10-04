@@ -2,7 +2,7 @@
 A task code with a smooth design
 
 
-Link --> https://ignite-bmpow7w41-thalesianmendes.vercel.app/
+Link --> https://thalesianmendes.github.io/task-s-project/
 
 --> Preview
 ![task02](https://user-images.githubusercontent.com/97729476/193716789-89eaa5b6-eadb-4702-be4b-0f9861c1b628.png)
